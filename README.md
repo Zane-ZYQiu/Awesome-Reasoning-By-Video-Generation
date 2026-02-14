@@ -42,11 +42,19 @@ Bingyi Kang, Yang Yue, Rui Lu, Zhijie Lin, Yang Zhao, Kaixin Wang, Gao Huang, Ji
 Yifan Li, Yukai Gu, Yingqian Min, Zikang Liu, Yifan Du, Kun Zhou, Min Yang, Wayne Xin Zhao, Minghui Qiu  
 📄 [Paper](https://arxiv.org/abs/2512.24952) | 💻 [Project](https://github.com/RUCAIBox/VIPER)
 
+- **Unified Video Editing with Temporal Reasoner** | *Dec 2025*  
+Xiangpeng Yang, Ji Xie, Yiyuan Yang, Yan Huang, Min Xu, Qiang Wu  
+📄 [Paper](https://arxiv.org/abs/2512.07469) | 💻 [Project](https://videocof.github.io/)
+
 ## Zero-Shot / Generalist Reasoning
 
 - **Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning** | *Jan 2026*  
 Chengzu Li, Zanyi Wang, Jiaang Li, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulic, Serge Belongie, Anna Korhonen  
 📄 [Paper](https://arxiv.org/abs/2601.21037)
+
+- **Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark** | *Oct 2025*  
+Ziyu Guo, Xinyan Chen, Renrui Zhang, Ruichuan An, Yu Qi, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng  
+📄 [Paper](https://arxiv.org/abs/2510.26802) | 💻 [Project](https://video-cof.github.io)
 
 ## Multimodal / World Model Reasoning
 
