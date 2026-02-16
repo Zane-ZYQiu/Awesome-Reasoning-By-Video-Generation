@@ -22,6 +22,10 @@ Cheng Yang, Haiyuan Wan, Yiran Peng, Xin Cheng, Zhaoyang Yu, Jiayi Zhang, Junchi
 
 ## Physical / Causal Reasoning
 
+- **VideoPhy: Evaluating Physical Commonsense for Video Generation** | *Oct 2024*  
+Hritik Bansal, Zongyu Lin, Tianyi Xie, Zeshun Zong, Michal Yarom, Yonatan Bitton, Chenfanfu Jiang, Yizhou Sun, Kai-Wei Chang, Aditya Grover  
+📄 [Paper](https://arxiv.org/abs/2406.03520) | 💻 [Project](https://github.com/Hritikbansal/videophy)
+
 - **Do Generative Video Models Understand Physical Principles?** | *Feb 2025*  
 Saman Motamed, Laura Culp, Kevin Swersky, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2501.09038) | 💻 [Project](https://github.com/google-deepmind/physics-IQ-benchmark)
@@ -59,6 +63,10 @@ Ziqi Huang, Ning Yu, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu
 - **Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning** | *Jan 2026*  
 Chengzu Li, Zanyi Wang, Jiaang Li, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulic, Serge Belongie, Anna Korhonen  
 📄 [Paper](https://arxiv.org/abs/2601.21037)
+
+- **TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models** | *Dec 2025*  
+Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Chen, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, Yu Cheng, Ying-Cong Chen  
+📄 [Paper](https://arxiv.org/abs/2511.13704) | 💻 [Project](https://haroldchen19.github.io/TiViBench-Page/)
 
 - **Video models are zero-shot learners and reasoners** | *Sep 2025*  
 Thaddaeus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
