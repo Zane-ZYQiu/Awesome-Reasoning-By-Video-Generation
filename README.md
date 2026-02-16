@@ -2,17 +2,19 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A lightweight and curated list of papers on **video reasoning** by **video generation**, organized by reasoning capability.
+A list of papers on **reasoning** by **video generation**, organized by reasoning capability.
 
 ## Categories
 
-- [Spatial Reasoning](#spatial-reasoning)
-- [Physical / Causal Reasoning](#physical--causal-reasoning)
-- [Temporal / Predictive Reasoning](#temporal--predictive-reasoning)
-- [Logical / Rule-based Reasoning](#logical--rule-based-reasoning)
-- [Chain-of-Visual-Thought Reasoning](#chain-of-visual-thought-reasoning)
-- [Zero-Shot / Generalist Reasoning](#zero-shot--generalist-reasoning)
-- [Multimodal / World Model Reasoning](#multimodal--world-model-reasoning)
+- [Awesome Visual Reasoning for Video Generation](#awesome-visual-reasoning-for-video-generation)
+  - [Categories](#categories)
+  - [Spatial Reasoning](#spatial-reasoning)
+  - [Physical / Causal Reasoning](#physical--causal-reasoning)
+  - [Temporal / Predictive Reasoning](#temporal--predictive-reasoning)
+  - [Logical / Rule-based Reasoning](#logical--rule-based-reasoning)
+  - [Chain-of-Visual-Thought Reasoning](#chain-of-visual-thought-reasoning)
+  - [Zero-Shot / Generalist Reasoning](#zero-shot--generalist-reasoning)
+  - [Multimodal / World Model Reasoning](#multimodal--world-model-reasoning)
 
 ## Spatial Reasoning
 
